@@ -1,4 +1,4 @@
-package cn.cultivator.sigleton;
+package cn.cultivator.singleton;
 
 /**
  * ¶öººÊ½

@@ -1,4 +1,4 @@
-package cn.cultivator.sigleton;
+package cn.cultivator.singleton;
 
 public enum Singleton_5 {
 	INSTANCE;

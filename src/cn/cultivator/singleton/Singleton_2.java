@@ -1,4 +1,4 @@
-package cn.cultivator.sigleton;
+package cn.cultivator.singleton;
 /**
  * 懒汉式
  * 要用synchronized去同步 线程安全但是效率比较低 但是能够进行懒加载 资源利用率比较高

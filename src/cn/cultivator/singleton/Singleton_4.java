@@ -1,4 +1,4 @@
-package cn.cultivator.sigleton;
+package cn.cultivator.singleton;
 /**
  * 用静态内部类去实现单例模式 
  * 在需要去加载的时候才会去加载这个静态内部类 可以实现懒加载 因为静态方法会随这个类

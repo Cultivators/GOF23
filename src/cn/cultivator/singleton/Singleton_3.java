@@ -1,4 +1,4 @@
-package cn.cultivator.sigleton;
+package cn.cultivator.singleton;
 /**
  * 
  * 双重检测锁实现 综合了懒汉式和饿汉式的有点 既可以实现懒加载 效率也比较高
